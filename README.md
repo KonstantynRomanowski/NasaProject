@@ -1,6 +1,6 @@
 # NASA Mission Control Project
 
-"Near future... SpaceX had finished starship and NASA want to explore possible habitable planets discovered by Kepler mission."
+"Near future... SpaceX had finished starship and NASA wants to explore possible habitable planets discovered by Kepler mission."
 
 This project has been deployed to AWB(EC2), check [demo](http://35.158.111.240:3001).
 
