@@ -1,6 +1,6 @@
 # NASA Mission Control Project
 
-This project has been deployed to AWB(EC2), check [demo](35.158.111.240:3001)
+This project has been deployed to AWB(EC2), check [demo](http://35.158.111.240:3001)
 
 ## Running the Project
 
