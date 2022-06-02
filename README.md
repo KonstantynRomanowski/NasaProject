@@ -4,6 +4,8 @@
 
 This project has been deployed to AWB(EC2), check [demo](http://35.158.111.240:3001).
 
+Used technologies: HTML, CSS, JS, React, NodeJS, REST API, Docker, AWS.
+
 ## Running the Project
 
 1. In the terminal, run: `npm run deploy`
